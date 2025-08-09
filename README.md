@@ -54,4 +54,17 @@ npm i antd @antdesigns/icond
 npm run dev
 ```
 
+### View
+
+
+<img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_04_12" src="https://github.com/user-attachments/assets/b304eb86-f253-40bf-b6fe-662e5d2845a9" /><img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_04_03" src="https://github.com/user-attachments/assets/a09536ad-3e7f-4dd9-bd94-121453dfda0e" />
+<img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_02_50" src="https://github.com/user-attachments/assets/322939b8-5e26-4f0e-9282-67049bc1060d" />
+
+<img width="1920" height="1020" alt="Navbar jsx - Frontend - Visual Studio Code 09-08-2025 11_00_16" src="https://github.com/user-attachments/assets/5032c4d8-9c90-4b84-9ea4-78f1a852f911" />
+<img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_01_14" src="https://github.com/user-attachments/assets/38678fe2-e107-460c-b99f-1e254cd33df1" />
+<img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_01_31" src="https://github.com/user-attachments/assets/5743fd1a-bd68-4072-a931-1f71739b8e03" />
+<img width="1920" height="1020" alt="Vite + React - Google Chrome 09-08-2025 11_01_55" src="https://github.com/user-attachments/assets/3b4c06c5-56bb-4ad3-afaa-d463e12efc53" />
+
+
+
 
